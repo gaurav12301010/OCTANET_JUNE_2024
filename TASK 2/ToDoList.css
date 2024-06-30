@@ -1,0 +1,98 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    height: 97vh;
+    background-image: linear-gradient(45deg, white,rgb(239, 245, 255));
+}
+#main-container{
+    background-image: linear-gradient(-45deg, white,rgb(199, 229, 230));
+    width: 550px;
+    margin: 40px auto;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 0 10px grey;
+}
+header{
+    text-align: center;
+    text-decoration: underline;
+    margin: 20px;
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+#input-section{
+    background-color: rgb(247, 252, 255);
+    width: 440px;
+    margin: 50px auto;
+    box-shadow: 0 0 10px grey;
+}
+#input-task{
+    background-color: light-dark(rgb(232, 240, 254), rgba(70, 90, 126, 0.4)) !important;
+    height: 35px;
+    width: 320px;
+    font-size: 18px;
+    border-style: none;
+    margin: 10px 2px;
+    padding-left: 10px;
+    outline: none;
+    box-sizing: border-box;
+}
+#save-btn{
+    background-color: rgb(94, 177, 125);
+    background-image: url('images/save-icon.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-style: none;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    height: 35px;
+    width: 100px;
+
+}
+#display-section{
+    background-color: rgb(247, 252, 255);
+    width: 440px;
+    margin: 30px auto;
+    padding: 10px;
+    font-size: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 0 10px grey;
+}
+#display-section table{
+    background-color: light-dark(rgb(232, 240, 254), rgba(70, 90, 126, 0.4)) !important;
+    margin: 0px auto;
+    width: 100%;
+}
+.task-heading{
+    padding-right: 220px;
+}
+.delete-btn{
+    border-style: none;
+    color: rgb(255, 255, 255);
+    background-image: url('images/delete-icon.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 35px;
+    width: 35px;
+}
+#clear-all-btn{
+    background-image: url('images/delete-icon.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-style: none;
+    color: rgb(100, 99, 99);
+    height: 35px;
+    width: 100px;
+    display: block;
+    margin:0 auto;
+    box-shadow: 0 0 7px rgb(201, 201, 201);
+}
+
+button:hover{
+    cursor: pointer;
+    box-shadow: 0 0 5px rgb(248, 177, 255);
+}
+
+
