@@ -1,4 +1,4 @@
-# OCTANET_JUNE_2024
+# SUMMER PROJECT_JUNE_2024
 ## Web Development Internship Program - OctaNet Services Pvt Ltd
 Welcome to my GitHub repository showcasing my journey and tasks completed during the Web Development Internship Program at OctaNet Services Pvt Ltd. Here, you'll find a collection of projects and assignments that highlight my learning and growth in web development.
 ### Repository Contents
