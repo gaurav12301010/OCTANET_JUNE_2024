@@ -1,6 +1,6 @@
 # SUMMER PROJECT_JUNE_2024
-## Web Development Internship Program - OctaNet Services Pvt Ltd
-Welcome to my GitHub repository showcasing my journey and tasks completed during the Web Development Internship Program at OctaNet Services Pvt Ltd. Here, you'll find a collection of projects and assignments that highlight my learning and growth in web development.
+## Web Development Project
+Welcome to my GitHub repository showcasing my journey and tasks completed during the 2024 summer break. Here, you'll find a collection of projects and assignments that highlight my learning and growth in web development.
 ### Repository Contents
 Task 1: Build a basic landing page using HTML and CSS.
 Each task folder contains the source code, documentation, and any additional resources related to the specific assignment.
